@@ -18,3 +18,21 @@ A simple and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. 
 4. Click the result message to reset and play again.
 
 ## Project Structure
+
+```
+tic_tac_toe/
+│
+├── index.html      # Main HTML file
+├── style.css       # Stylesheet for the game
+├── game.js         # Game logic in JavaScript
+├── README.md       # Project documentation
+```
+
+## Customization
+
+- Modify `style.css` to change the appearance.
+- Enhance `game.js` to add features like sound or animations.
+
+## License
+
+This project is open source and free to use for learning and personal projects. Feel free to modify and distribute it as you like.
